@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ericsubscription0128/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_apis/build/status/eelzinga.calculator?branchName=master)](https://dev.azure.com/ericsubscription0128/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_build/latest?definitionId=9&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
